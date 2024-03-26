@@ -1,3 +1,16 @@
+node_modules
+.DS_Store
+dist
+.idea
+.npmrc
+.cache
+.vscode
+.yarn
+.husky
+.git-vben
+.github
+__MACOSX
+
 # Logs
 logs
 *.log
@@ -128,3 +141,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
